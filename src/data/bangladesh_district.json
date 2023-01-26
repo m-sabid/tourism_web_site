@@ -1,0 +1,322 @@
+[
+    {
+        "_id": "bagerhat",
+        "district": "Bagerhat",
+        "district_in_bangla": "বাগেরহাট"
+    },
+    {
+        "_id": "bandarban",
+        "district": "Bandarban",
+        "district_in_bangla": "বান্দরবান"
+    },
+    {
+        "_id": "barguna",
+        "district": "Barguna",
+        "district_in_bangla": "বরগুনা"
+    },
+    {
+        "_id": "barishal",
+        "district": "Barishal",
+        "district_in_bangla": "বরিশাল"
+    },
+    {
+        "_id": "bhola",
+        "district": "Bhola",
+        "district_in_bangla": "ভোলা"
+    },
+    {
+        "_id": "bogura",
+        "district": "Bogura",
+        "district_in_bangla": "বগুড়া"
+    },
+    {
+        "_id": "brahmanbaria",
+        "district": "Brahmanbaria",
+        "district_in_bangla": "ব্রাহ্মণবাড়িয়া"
+    },
+    {
+        "_id": "chandpur",
+        "district": "Chandpur",
+        "district_in_bangla": "চাঁদপুর"
+    },
+    {
+        "_id": "chapai nawabganj",
+        "district": "Chapai Nawabganj",
+        "district_in_bangla": "চাঁপাইনবাবগঞ্জ"
+    },
+    {
+        "_id": "chattogram",
+        "district": "Chattogram",
+        "district_in_bangla": "চট্টগ্রাম"
+    },
+    {
+        "_id": "chuadanga",
+        "district": "Chuadanga",
+        "district_in_bangla": "চুয়াডাঙ্গা"
+    },
+    {
+        "_id": "cox's bazar",
+        "district": "Cox's Bazar",
+        "district_in_bangla": "কক্স বাজার"
+    },
+    {
+        "_id": "cumilla",
+        "district": "Cumilla",
+        "district_in_bangla": "কুমিল্লা"
+    },
+    {
+        "_id": "dhaka",
+        "district": "Dhaka",
+        "district_in_bangla": "ঢাকা"
+    },
+    {
+        "_id": "dinajpur",
+        "district": "Dinajpur",
+        "district_in_bangla": "দিনাজপুর"
+    },
+    {
+        "_id": "faridpur",
+        "district": "Faridpur",
+        "district_in_bangla": "ফরিদপুর"
+    },
+    {
+        "_id": "feni",
+        "district": "Feni",
+        "district_in_bangla": "ফেনী"
+    },
+    {
+        "_id": "gaibandha",
+        "district": "Gaibandha",
+        "district_in_bangla": "গাইবান্ধা"
+    },
+    {
+        "_id": "gazipur",
+        "district": "Gazipur",
+        "district_in_bangla": "গাজীপুর"
+    },
+    {
+        "_id": "gopalganj",
+        "district": "Gopalganj",
+        "district_in_bangla": "গোপালগঞ্জ"
+    },
+    {
+        "_id": "habiganj",
+        "district": "Habiganj",
+        "district_in_bangla": "হবিগঞ্জ"
+    },
+    {
+        "_id": "jaipurhat",
+        "district": "Jaipurhat",
+        "district_in_bangla": "জয়পুরহাট"
+    },
+    {
+        "_id": "jamalpur",
+        "district": "Jamalpur",
+        "district_in_bangla": "জামালপুর"
+    },
+    {
+        "_id": "jashore",
+        "district": "Jashore",
+        "district_in_bangla": "যশোর"
+    },
+    {
+        "_id": "jhalokati",
+        "district": "Jhalokati",
+        "district_in_bangla": "ঝালকাঠী"
+    },
+    {
+        "_id": "jhenaidah",
+        "district": "Jhenaidah",
+        "district_in_bangla": "ঝিনাইদহ"
+    },
+    {
+        "_id": "khagrachari",
+        "district": "Khagrachari",
+        "district_in_bangla": "খাগড়াছড়ি"
+    },
+    {
+        "_id": "khulna",
+        "district": "Khulna",
+        "district_in_bangla": "খুলনা"
+    },
+    {
+        "_id": "kishoreganj",
+        "district": "Kishoreganj",
+        "district_in_bangla": "কিশোরগঞ্জ"
+    },
+    {
+        "_id": "kurigram",
+        "district": "Kurigram",
+        "district_in_bangla": "কুড়িগ্রাম"
+    },
+    {
+        "_id": "kushtia",
+        "district": "Kushtia",
+        "district_in_bangla": "কুষ্টিয়া"
+    },
+    {
+        "_id": "lakshmipur",
+        "district": "Lakshmipur",
+        "district_in_bangla": "লক্ষ্মীপুর"
+    },
+    {
+        "_id": "lalmonirhat",
+        "district": "Lalmonirhat",
+        "district_in_bangla": "লালমনিরহাট"
+    },
+    {
+        "_id": "madaripur",
+        "district": "Madaripur",
+        "district_in_bangla": "মাদারীপুর"
+    },
+    {
+        "_id": "magura",
+        "district": "Magura",
+        "district_in_bangla": "মাগুরা"
+    },
+    {
+        "_id": "manikganj",
+        "district": "Manikganj",
+        "district_in_bangla": "মানিকগঞ্জ"
+    },
+    {
+        "_id": "meherpur",
+        "district": "Meherpur",
+        "district_in_bangla": "মেহেরপুর"
+    },
+    {
+        "_id": "moulvibazar",
+        "district": "Moulvibazar",
+        "district_in_bangla": "মৌলভীবাজার"
+    },
+    {
+        "_id": "munshiganj",
+        "district": "Munshiganj",
+        "district_in_bangla": "মুন্সিগঞ্জ"
+    },
+    {
+        "_id": "mymensingh",
+        "district": "Mymensingh",
+        "district_in_bangla": "ময়মনসিংহ"
+    },
+    {
+        "_id": "naogaon",
+        "district": "Naogaon",
+        "district_in_bangla": "নওগাঁ"
+    },
+    {
+        "_id": "narail",
+        "district": "Narail",
+        "district_in_bangla": "নড়াইল"
+    },
+    {
+        "_id": "narayanganj",
+        "district": "Narayanganj",
+        "district_in_bangla": "নারায়ণগঞ্জ"
+    },
+    {
+        "_id": "narsingdi",
+        "district": "Narsingdi",
+        "district_in_bangla": "নরসিংদী"
+    },
+    {
+        "_id": "natore",
+        "district": "Natore",
+        "district_in_bangla": "নাটোর"
+    },
+    {
+        "_id": "netrokona",
+        "district": "Netrokona",
+        "district_in_bangla": "নেত্রকোনা"
+    },
+    {
+        "_id": "nilphamari",
+        "district": "Nilphamari",
+        "district_in_bangla": "নিলফামারী"
+    },
+    {
+        "_id": "noakhali",
+        "district": "Noakhali",
+        "district_in_bangla": "নোয়াখালী"
+    },
+    {
+        "_id": "pabna",
+        "district": "Pabna",
+        "district_in_bangla": "পাবনা"
+    },
+    {
+        "_id": "panchagarh",
+        "district": "Panchagarh",
+        "district_in_bangla": "পঞ্চগড়"
+    },
+    {
+        "_id": "patuakhali",
+        "district": "Patuakhali",
+        "district_in_bangla": "পটুয়াখালী"
+    },
+    {
+        "_id": "pirojpur",
+        "district": "Pirojpur",
+        "district_in_bangla": "পিরোজপুর"
+    },
+    {
+        "_id": "rajbari",
+        "district": "Rajbari",
+        "district_in_bangla": "রাজবাড়ী"
+    },
+    {
+        "_id": "rajshahi",
+        "district": "Rajshahi",
+        "district_in_bangla": "রাজশাহী"
+    },
+    {
+        "_id": "rangamati",
+        "district": "Rangamati",
+        "district_in_bangla": "রাঙ্গামাটি"
+    },
+    {
+        "_id": "rangpur",
+        "district": "Rangpur",
+        "district_in_bangla": "রংপুর"
+    },
+    {
+        "_id": "satkhira",
+        "district": "Satkhira",
+        "district_in_bangla": "সাতক্ষীরা"
+    },
+    {
+        "_id": "shariatpur",
+        "district": "Shariatpur",
+        "district_in_bangla": "শরিয়তপুর"
+    },
+    {
+        "_id": "sherpur",
+        "district": "Sherpur",
+        "district_in_bangla": "শেরপুর"
+    },
+    {
+        "_id": "sirajganj",
+        "district": "Sirajganj",
+        "district_in_bangla": "সিরাজগঞ্জ"
+    },
+    {
+        "_id": "sunamganj",
+        "district": "Sunamganj",
+        "district_in_bangla": "সুনামগঞ্জ"
+    },
+    {
+        "_id": "sylhet",
+        "district": "Sylhet",
+        "district_in_bangla": "সিলেট"
+    },
+    {
+        "_id": "tangail",
+        "district": "Tangail",
+        "district_in_bangla": "টাঙ্গাইল"
+    },
+    {
+        "_id": "thakurgaon",
+        "district": "Thakurgaon",
+        "district_in_bangla": "ঠাকুরগাঁও"
+    }
+]
